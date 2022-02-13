@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "practice1"
 include ':app'
 include ':layouttype'
+include ':clickbuttons'
