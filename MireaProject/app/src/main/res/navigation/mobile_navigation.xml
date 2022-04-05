@@ -40,4 +40,14 @@
         android:name="ru.mirea.tuminskiy.mireaproject.MusicFragment"
         android:label="fragment_music"
         tools:layout="@layout/fragment_music" />
+    <fragment
+        android:id="@+id/nav_photo"
+        android:name="ru.mirea.tuminskiy.mireaproject.PhotoFragment"
+        android:label="fragment_photo"
+        tools:layout="@layout/fragment_photo" />
+    <fragment
+        android:id="@+id/nav_accel"
+        android:name="ru.mirea.tuminskiy.mireaproject.AccelFragment"
+        android:label="fragment_accel"
+        tools:layout="@layout/fragment_accel" />
 </navigation>
